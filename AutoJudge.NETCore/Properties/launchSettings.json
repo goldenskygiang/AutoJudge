@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AutoJudge.NETCore": {
+      "commandName": "Project",
+      "commandLineArgs": "-src D:\\Algorithms\\Olympic 30-4\\2016\\APROBOT\\APROBOT.cpp"
+    }
+  }
+}
